@@ -1,1 +1,3 @@
 Hello Git
+this file is after editing 
+this is just for practice purpose
